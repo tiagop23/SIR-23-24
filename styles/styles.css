@@ -23,9 +23,12 @@
 }
 
 #services {
-    height: 100vh;
+    height: 80vh;
 }
 
+#contact {
+    height: 80vh;
+}
 
 
 .fundo {
