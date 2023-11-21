@@ -62,3 +62,7 @@
     text-align: center;
     display: flex;
 }
+
+.endPage {
+    background-color: black;
+}
